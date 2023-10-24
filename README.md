@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a junior web developer with a strong background in bus
 
 
 
-![CODING](https://giphy.com/embed/hpXdHPfFI5wTABdDx9)
+![CODING](https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif)
 
 
 ![Hello World](https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif)
