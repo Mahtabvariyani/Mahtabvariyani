@@ -5,6 +5,8 @@
 ### **<h1 align="center">Hey Guys👋 , i'm Mah</h1>**  
   
 Welcome to my GitHub! I'm a junior web developer with a strong background in business administration. I'm embarking on a journey that bridges my business administration background with my passion for full-stack web development. I strive to infuse creativity into every line of code, creating unique and exceptional web experiences. 👩🏻‍💻
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9">via GIPHY</a></p>
+
 
 ## My Skill Set  
 
