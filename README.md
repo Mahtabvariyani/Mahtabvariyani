@@ -4,11 +4,10 @@
 
 ### **<h1 align="center">Hey Guys👋 , i'm Mah</h1>**  
   
-<div align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="400" alt="CODING">
-</div>
-
-Welcome to my GitHub! I'm a junior web developer with a strong background in business administration. I'm embarking on a journey that bridges my business administration background with my passion for full-stack web development. I strive to infuse creativity into every line of code, creating unique and exceptional web experiences. 👩🏻‍💻
+<p float="left">
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="400" />
+  Welcome to my GitHub! I'm a junior web developer with a strong background in business administration. I'm embarking on a journey that bridges my business administration background with my passion for full-stack web development. I strive to infuse creativity into every line of code, creating unique and exceptional web experiences. 👩🏻‍💻
+</p>
 
 
 
