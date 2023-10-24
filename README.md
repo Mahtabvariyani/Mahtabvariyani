@@ -2,14 +2,12 @@
 </div>  
   
 
-### **<h1 align="center">Hey everyone👋 , i'm Mah</h1>**  
+### **<h1 align="center">Hey Guys👋 , i'm Mah</h1>**  
   
-
-- Welcome to my GitHub! I'm embarking on a journey that bridges my background in business administration with my passion for full-stack web development. I strive to infuse creativity into every line of code, crafting unique and exceptional web experiences. 👩🏻‍💻  
-
+Welcome to my GitHub! I'm a junior web developer with a strong background in business administration. I'm embarking on a journey that bridges my business administration background with my passion for full-stack web development. I strive to infuse creativity into every line of code, creating unique and exceptional web experiences. 👩🏻‍💻
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+
 
 <div align="center">  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
