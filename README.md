@@ -10,12 +10,12 @@
 
 Hello, I'm a developer passionate about coding.
 
-<!-- Lottie Animation -->
+
 <div align="center">
   <iframe src="https://lottie.host/?file=83525252-24a8-4fc3-9cf1-428876712d29/fJ0ga3P8yj.json" width="300" height="300" frameBorder="0" background="transparent" allowFullScreen></iframe>
 </div>
 
-You can add more content below the animation and customize it as needed.
+
 
 
 <h3 align="left">Languages and Tools:</h3>
