@@ -39,14 +39,3 @@
 </div>
 
 
-
- <table>
-    <tr>
-      <td>
-        Welcome to my GitHub! I'm a junior web developer with a strong background in business administration. I'm embarking on a journey that bridges my business administration background with my passion for full-stack web development. I strive to infuse creativity into every line of code, creating unique and exceptional web experiences.👩🏻‍💻
-      </td>
-      <td>
-        <img src="[https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif](https://lottie.host/?file=05d97ffd-d861-480f-86d5-3e5d69eedbf5/vasYyqg5hS.json)https://lottie.host/?file=05d97ffd-d861-480f-86d5-3e5d69eedbf5/vasYyqg5hS.json" alt="PROGERAMM" width="400">
-      </td> 
-    </tr>
-  </table>
