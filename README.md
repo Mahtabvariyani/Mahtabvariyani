@@ -40,9 +40,5 @@
 </div>
 
 
-<div align="center">  
 
-      <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" alt="CODING" width="400">
-
-</div>
 
