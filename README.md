@@ -11,6 +11,7 @@
     </td>
     <td>
       <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" alt="CODING" width="400">
+      
     </td>
   </tr>
 </table>
@@ -38,4 +39,10 @@
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 </div>
 
+
+<div align="center">  
+
+      <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" alt="CODING" width="400">
+
+</div>
 
