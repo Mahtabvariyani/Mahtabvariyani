@@ -40,7 +40,7 @@
 
 
 <div>
-<img src='https://lottie.host/?file=d8294c92-aac5-490b-bc53-aa27042e345a/nuTxYOrFQ3.json'  width="400" >
+<img src='https://lottie.host/?file=d8294c92-aac5-490b-bc53-aa27042e345a/giphy.gif'  width="400" >
 
 
 </div>
