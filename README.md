@@ -42,7 +42,9 @@
 ##
 
 <div align="center" style="margin-top: 20px;">  
-  <img src="https://github.com/Mahtabvariyani/Mahtabvariyani/assets/108659794/6c3185d2-138d-4ab2-a36f-e1c7b649b872" width="600"/>
+  
+
+  <img src="https://github.com/Mahtabvariyani/Mahtabvariyani/assets/108659794/125a60d9-1bd3-4625-a176-83af77e50d28" width="600"/>
 </div>
 
 
