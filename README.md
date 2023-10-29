@@ -39,13 +39,15 @@
 </div>
 
 
-<div align="center">  
-        <img src="https://i.gifer.com/7zwd.gif" width="800"/>
+<div align="center" width="700" >   
+
+
+
+![7zwd](https://github.com/Mahtabvariyani/Mahtabvariyani/assets/108659794/6c3185d2-138d-4ab2-a36f-e1c7b649b872)
+
+
 
 </div>
-
-
-
 
 
 
