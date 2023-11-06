@@ -38,13 +38,4 @@
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 </div>
 
-##
-##
-
-<div align="center" style="margin-top: 20px;">  
-  
-
-  <img src="https://github.com/Mahtabvariyani/Mahtabvariyani/assets/108659794/125a60d9-1bd3-4625-a176-83af77e50d28" width="300"/>
-</div>
-
 
