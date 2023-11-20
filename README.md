@@ -1,41 +1,15 @@
-<div align="center">
-</div>  
-   
+About me: I am a self-taught Full Stack Developer with a strong background in Business Administration and  2 years of experience in JavaScript, TypeScript, React, and Node.js. I have a proven track record of working with modern web standards and developing production-level systems.
 
-### **<h1 align="center">Hey Guys👋, i'm Mah</h1>**  
-   
- <table>
-    <tr>
-      <td>
-        Welcome to my GitHub! I'm a junior web developer with a strong background  in business  administration. I'm embarking on a journey that bridges my business administration background with my passion for full-stack web development. I strive to infuse creativity into every line of code, creating unique and exceptional web experiences.
-      </td>
-      <td>
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif"  width="400"/>
-      </td> 
-    </tr>
-  </table>
+My journey began with a passion for creating digital art, which led me to delve into the world of graphic design. Motivated by the goal of streamlining design workflows, I undertook the development of a custom design collaboration platform for my creative community. This hands-on experience ignited my passion for coding and software development.
 
+🚀 My personal motto: "Think deeply, code precisely, innovate constantly."
 
+💻 Programming Languages: JavaScript, TypeScript
 
+🔧 Technologies & Tools: React, React Hooks, Node.js, Handlebars, Express.js, RESTful APIs, Next.js, MongoDB, MaterialUI, Styled-components, TailwindCSS, Bootstrap, HTML, CSS, SCSS, Auth0, Postman, Sanity, AI Coding Tools (ChatGPT, GitHub Co-Pilot)
 
+☁️ Cloud: Git, Github, Gitlab , Vercel
 
-## My Skill Set  
+📊 Methodologies: I adopt agile development methodologies to ensure efficient collaboration, adaptability, and timely project delivery.
 
-
-
-<div align="center">  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-</div>
-
-
+🌐 Interests: Web Development, Web Performance, Full-Stack Development
