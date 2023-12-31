@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Mahtabvariyani/Mahtabvariyani/assets/108659794/d0fcb5de-d8fb-4284-ae39-bb1008542e85" alt="Profile Picture" width="700" />
+  <img src="https://github.com/Mahtabvariyani/Mahtabvariyani/assets/108659794/d3f7a8c9-1825-40dd-b473-2702c321d845" alt="Profile Picture" width="700" />
 </div>
 
 
