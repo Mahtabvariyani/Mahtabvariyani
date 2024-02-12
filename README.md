@@ -2,7 +2,7 @@
 <div align="center">
 
  
- [Portfolio]((https://mahtabvariyani.vercel.app/))  * [Linkedin](https://www.linkedin.com/in/mahvariyani/) * [Weblog](https://mah-blog-project.vercel.app/)
+ [Portfolio](https://mahtabvariyani.vercel.app/)  * [Linkedin](https://www.linkedin.com/in/mahvariyani/) * [Weblog](https://mah-blog-project.vercel.app/)
 
 </div>
 
